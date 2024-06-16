@@ -1,5 +1,5 @@
 # Swiggy-Restaurants-Analysis
-Overview
+#Overview
 This project involves analyzing a comprehensive dataset compiled from Swiggy's official website, offering insights into the expansive network of restaurants available on the platform. The dataset includes details from over 1.5 lakh restaurants spanning across 600 cities in India. It provides valuable information such as restaurant names, ratings, cuisine types, average prices, number of offers, offer names, areas of operation, indication of vegetarian options, and precise geographic locations. After thorough data cleaning and exploration, insights were generated to assist in decision-making for potential restaurant owners and investors.
 
 Key Features
