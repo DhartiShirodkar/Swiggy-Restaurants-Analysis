@@ -23,6 +23,7 @@ Expansion: Expansion of the project to include additional cities or restaurant p
 
 #### Contact Information:
 For any queries or feedback, please reach out to:
+
 Email: dhartidp1801@gmail.com
 
 Feedback:
